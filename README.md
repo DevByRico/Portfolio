@@ -35,5 +35,4 @@ index.html         # Main landing page
 
 Feel free to reach out if you’d like to collaborate or have any questions!
 
-- Email: [ricardonicolau2001@gmail.com]
-- LinkedIn: [RicardoNicolau]
+- Email: [devbyrico@gmail.com]
